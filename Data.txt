@@ -1,1 +1,7 @@
 git clone https://github.com/kshitij-hansa/Code.git      //  Get data from repository
+
+
+
+git add Data.txt
+git commit -m "Git commands details"
+git push
